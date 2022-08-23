@@ -1,0 +1,9 @@
+{
+    "name": "du/du",
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "app\\":"./"
+        }
+    }
+}
